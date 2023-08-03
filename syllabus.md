@@ -191,12 +191,12 @@ Exams will be graded on Gradescope.
 
 All regrade requests are handled on Gradescope. Please be aware that
 if a regrade request results in a grade change, it can take up to one
-week for that change to be reflected on Collab's Gradebook, as syncing
-the Gradebook to Gradescope is a very time consuming process, and we will
+week for that change to be reflected on Canvas's Gradebook, as syncing
+the Gradebook to Gradescope is a very time-consuming process, and we will
 likely only do it once at the *end* of the regrade request period.
 
 Curved exams scores **will not** appear on Gradescope (Gradescope doesn't
-have a feature for this). Curved Exam Scores will be posted on Collab
+have a feature for this). Curved Exam Scores will be posted on Canvas
 Usually within 24 hours of Raw Exam Scores being posted on Gradescope.
 
 ## Piazza
@@ -596,7 +596,7 @@ to your final course grade, and your regrade request being declined.
 
 ## Lecture Recordings
 
-* Lecture sessions will generally be recorded and made available through the Lecture Recordings tool in Collab.  
+* Lecture sessions will generally be recorded and made available through the Lecture Recordings tool in Canvas.  
   * However, recordings will not include material written on the board 
   * Recordings may lose audio when the speaker needs to walk away from the microphone
   * Recordings that are corrupted or missing are unlikely to be replaced
