@@ -6,7 +6,7 @@ description: "CS 3140 - Software Development Essentials"
 permalink: /
 ---
 
-# CS 3140 - Fall 2022
+# CS 3140 - Fall 2023
 ## Software Development Essentials
 
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
