@@ -9,6 +9,8 @@ permalink: /
 # CS 3140 - Fall 2023
 ## Software Development Essentials
 
+Important Links:
+
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Drive Folder](https://drive.google.com/drive/folders/1rbif6FPelWVSoHCNLPmysHPuhl5iNlhs?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
