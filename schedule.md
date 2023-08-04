@@ -12,4 +12,4 @@ schedule only shows Tuesdays and Thursdays, and homeworks may be due on other da
 of the week.
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRESVGydFmhNLA-z_j6NyevQErKY242lizeCpv6eKhqC37YWBx2BLhLw285DSFnIjQf1WCo24EuOnfp/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1200", height="720"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRESVGydFmhNLA-z_j6NyevQErKY242lizeCpv6eKhqC37YWBx2BLhLw285DSFnIjQf1WCo24EuOnfp/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1200" height="720"></iframe>
