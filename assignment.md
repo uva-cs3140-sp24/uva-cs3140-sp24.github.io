@@ -11,21 +11,21 @@ subject to change.
 ## Homework 1 A/B
 
 * **Posted**: 
-  * Part A - Thursday, August 31st by 12 noon.
-  * Part B - Friday, August 8th by 12 noon.
+  * Part A - Tuesday, August 29th by 12 noon.
+  * Part B - Saturday, September 9th by 12:01 a.m.
 * **Teams Declaration**: Friday, September 1 by 11:59 p.m.
 * **Due**:
-  * Part A: Thursday, September 7th at 11:59 p.m.
+  * Part A: Friday, September 8th at 11:59 p.m.
   * Part B: Friday, September 15th at 11:59 p.m.
 
 **Assignment**: TBD
 
 **Topics**: 
 * Ensure prerequisite Java knowledge
-* Designing a system
-* using git, GitHub and gradle
+* Designing a software solution
+* Using git, GitHub and gradle
 * Planning for change
-* Using external libraries (POI)
+* Using external libraries (Apache poi)
 
 
 ---
