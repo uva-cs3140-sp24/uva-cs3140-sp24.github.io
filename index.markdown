@@ -39,6 +39,8 @@ __Teaching Assistants:__
 Simon is a 3rd year CS student. In his free time, he enjoys watching soccer, playing disc golf, and eating ice cream.
 
 **Fernando Canales**  
+<img src="assets/images/ta_pics/canales.jpg" height="100">  
+Fernando is a 4th year majoring in Computer Science. His favorite programming language is Kotlin and is heavily biased against using Python. He enjoys running and watching shows.
 
 
 **Andrew Cornfeld**  
@@ -61,6 +63,8 @@ Stephanie is a third year Computer Science major with Economics and Statistics m
 
 
 **Sebastian Fugle**  
+<img src="assets/images/ta_pics/fugle.jpg" height="100">  
+Sebastian is a 3rd year majoring in Computer Science. Their favorite programming language is C++, with Java being their most experienced. Sebastian also enjoys pushing programming languages and platforms to their limits, and trying to do what "shouldn't be possible" on any given system. Aside from programming, Sebastian likes to hike, act, and listen to music.
 
 
 **Jade Gregoire**  
