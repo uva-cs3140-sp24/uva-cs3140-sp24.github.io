@@ -25,9 +25,9 @@ Both sections in Nau Hall 101, taught by Prof. McBurney
 __Instructor:__ Prof. Will McBurney    
 Office: Rice 404  
 Office Hours:
-* Mondays 3:30 a.m. to 5:00 p.m.
-* Wednesdays 1:30 p.m. to 3:00 p.m.
-* Fridays 2:30 p.m. to 4:00 p.m.  
+* Mondays 1 pm to 4pm
+* Tuesdays 10 am to 11am 
+* Wednesdays 11 am to 1 pm
 Email: [mcburney@virginia.edu](mailto:pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 

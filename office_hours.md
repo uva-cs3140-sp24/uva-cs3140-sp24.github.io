@@ -10,9 +10,9 @@ The most up-to-date Office Hours Schedule:
 
 **Location**: Rice Hall 404
 
-* Mondays 1 to 4 p.m.
-* Tuesdays 10 to 11 a.m.
-* Wednesdays 10 a.m to Noon
+* Mondays 1 to 4 pm
+* Tuesdays 10 to 11 am
+* Wednesdays 11 am to 1pm
 
 ## TA Office Hours
 
