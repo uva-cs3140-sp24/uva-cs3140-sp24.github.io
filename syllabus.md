@@ -270,9 +270,11 @@ Grading in this class will be based one:
 	* 15% for Homework 6
 * Quizzes (9) - 5%
 	* Must pass at least 8 quizzes for full credit
-* Midterms (2) - 20%
-	* 10% each
-* Cumulative Final Exam (1) - 15%
+* Midterms (1) - 14%*
+* Cumulative Final Exam (1) - 21%*
+
+If a student's final exam score is better than the midterm exam score, then the final exam will be 25% of the final 
+grade, and the midterm only 10% of the final grade
 
 There will be no extra credit opportunities for any reason.
 
@@ -287,10 +289,9 @@ Assignment purpose:
   * Note that this assignment will have 2 distinct parts
 * HW2 - Testing and clean code 
 * HW3 - Refactoring and Java Streams
-* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockit
-* HW5 - JavaFX GUI
-* HW6 - JSON Parsing and SQL with SQLite
-    * Note that this assignment will have 2 distinct parts
+* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockito
+* HW5 - Databases
+* HW6 - Final project with Java GUI
 
 On HW2 through HW5, you will be given starter code to work with. This starter code
 will be automatically added to your teams GitHub Repository when you begin the assignment. HW1 and HW6 will have no starter code.
@@ -312,7 +313,7 @@ Rules on assignment teams:
 6. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
 7. The instruction staff will not put you on a team, nor will they find a team for you. You are responsible for forming your own teams.
 
-#### Team Declations
+#### Team Declarations
 
 All teams must be declared at least **one week before the due date**. To declare your team, you will complete an assignment on Gradescope called **"HWX - Team Declaration"** where X is the number of the assignment. The document simply requires the names and computing IDs of everyone on the team (as well as their Github name). Example:
 
@@ -496,12 +497,10 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 ### Midterms
 
-There will be two non-cumulative midterms during the course.
+There will be one midterms during the course.
 
-* Midterm 1: Tuesday, September 26, 2023, in-class
-    * Covers all material from start of class up to and including September 19
-* Midterm 2: Thursday, November 2, 2023, in-class
-    * Covers all material from September 29 up to and including October 31
+* Midterm Exam: Tuesday, October 17, 2023, in-class
+    * Covers all material from start of class up to and including October 10
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
