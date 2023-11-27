@@ -508,10 +508,9 @@ If you know you will be absent for an exam, you must let your professor know wit
 
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
-The final exams scheduled for:
+The final exams scheduled **for both sections**
 
-* **12:30 p.m. Section 001:** Friday, December 8, 2-5p.m.  
-* **02:00 p.m. Section 002:** Thursday, December 14, 9a.m. to 12 noon
+***MONDAY, DECEMBER 11, 2023*** - 7p.m. to 10p.m.
 
 **You must attend the section you are registered for**. Any requests to take the final exam with a different section will be denied regardless of the reason. If you attend the wrong final exam section, your final exam will be given a zero.
 
