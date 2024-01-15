@@ -6,7 +6,7 @@ description: "CS 3140 - Software Development Essentials"
 permalink: /
 ---
 
-# CS 3140 - Fall 2023
+# CS 3140 - Spring 2024
 ## Software Development Essentials
 
 Important Links:
@@ -15,24 +15,24 @@ Important Links:
 
 [Drive Folder](https://drive.google.com/drive/folders/1rbif6FPelWVSoHCNLPmysHPuhl5iNlhs?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-## Lecture Sessions
-001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM 
-002: Tuesdays and Thursdays @ 2:00 PM - 3:15 PM
+## Lecture
+Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
 
-Both sections in Nau Hall 101, taught by Prof. McBurney
+Both sections in McLeod 1020, taught by Prof. Nguyen
 
 ## Staff Information
-__Instructor:__ Prof. Will McBurney    
-Office: Rice 404  
+__Instructor:__ Prof. Rich Nguyen   
+Office: Rice 202  
 Office Hours:
-* Mondays 1 pm to 4pm
-* Tuesdays 10 am to 11am 
-* Wednesdays 11 am to 1 pm
-Email: [mcburney@virginia.edu](mailto:pm8fc@virginia.edu)      
-Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
+* Mondays 11 am to 12 pm on Zoom
+* Tuesdays 1 pm to 2 pm at Rice 202 
+* Wednesdays 11 am to 12 pm on Zoom
+* Thursdays 1 pm to 2 pm at Rice 202
+Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
+Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
 
-__Teaching Assistants:__ 
+__Teaching Assistants (Tentative):__ 
 
 **Simon Anderson**  
 <img src="assets/images/ta_pics/anderson.jpg" height="100">  
