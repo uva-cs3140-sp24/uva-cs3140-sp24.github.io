@@ -15,7 +15,7 @@ nav_order: 2
 
 # Basic Info
 CS 3140
-Fall 2022 Semester   
+Spring 2024 Semester   
 
 Course Website - [https://cs3140.com](https://cs3140.com)
 
@@ -27,26 +27,22 @@ Online Textbook:
 [https://sde-course.com](https://sde-course.com)
 
 Drive Folder:
-[https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing](https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1xoBESk3JaqCZyBd0z9AhUyfUBLDrksSfBbp4fRPfZI4/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/1xoBESk3JaqCZyBd0z9AhUyfUBLDrksSfBbp4fRPfZI4/edit?usp=drive_link)
 
 
 ## Lecture Sections
-Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Nau Hall 101
-Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Nau Hall 101
+Tuesdays and Thursdays @ 9:30 AM-10:45 AM in McLeod 1020
 
 
 ## Staff Information
-__Instructor:__ Prof. Will McBurney    
+__Instructor:__ Prof. Rich Nguyen  
 Office: Rice 404  
 Office Hours:
 * Mondays 1 to 4 pm
 * Tuesdays 10 to 11 am
 * Wednesdays 11 am to 1pm    
-Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
-Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
-
-__Teaching Assistants:__ TBD  
-
+Email: [nn4pj@virginia.edu](nn4pj@virginia.edu)      
+Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
 # Course Description
 
@@ -54,15 +50,15 @@ A first course in software engineering and software construction, this course fo
 
 ## Course Objectives
 {: .no_toc }
-Upon completion of this course students will:
+Upon completion of this course, students will:
 
 * Building larger object-oriented programs 
 * Understanding software build environment (IDEs, Build tools, etc.)
 * Working collaboratively and asynchronously with others 
 * Iterative development 
-* Designing functional and object oriented systems 
+* Designing functional and object-oriented systems 
 * Front-end and back-end development 
-* Software Architectural and object-oriented design patterns, and when to use them
+* Software Architectural and object-oriented design patterns and when to use them
 
 
 ## Course Topics
@@ -130,8 +126,8 @@ Canvas has links to all other course material.
 This is the website that you are currently on. Here you can find:
 
 - Syllabus (you're looking at it!)
-- [Course Schedule](https://uva-cs3140-fa22.github.io/schedule.html) - if the schedule changes this is kept up to date
-- [Office Hours Schedule](https://uva-cs3140-sp23.github.io/office_hours.html)
+- [Course Schedule](https://uva-cs3140-sp24.github.io/schedule.html) - if the schedule changes, this is kept up to date
+- [Office Hours Schedule](https://uva-cs3140-sp24.github.io/office_hours.html)
 
 The schedule and assignments information page will include links to 
 the drive folder for Lecture Notes, Slides, Assignment Write-ups,
@@ -201,7 +197,7 @@ Usually within 24 hours of Raw Exam Scores being posted on Gradescope.
 
 ## Piazza
 
-Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
+Piazza @ [https://piazza.com/virginia/spring2024/cs3140sde/home](https://piazza.com/virginia/spring2024/cs3140sde/home)    
 
 We will be using Piazza for the following:
 
@@ -265,13 +261,15 @@ _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 60%  
-	* 9% each for Homework 1 through 5
+* Homework Assignments (7) - 65%  
+	* 10% each for Homework 1 through 5
 	* 15% for Homework 6
 * Quizzes (9) - 5%
 	* Must pass at least 8 quizzes for full credit
-* Midterms (1) - 14%*
-* Cumulative Final Exam (1) - 21%*
+* Professional Practice - 10%
+ 	* Peer-review assessment of practice of professionalism in the course
+* Midterms (1) - 10%*
+* Final Exam (1) - 10%*
 
 If a student's final exam score is better than the midterm exam score, then the final exam will be 25% of the final 
 grade, and the midterm only 10% of the final grade
@@ -280,8 +278,8 @@ There will be no extra credit opportunities for any reason.
 
 ## Homework Assignments
 
-There will be 6 homeworks assignments. These assignments will be mostly Java programming
-assignments. Each assignment is independent, and doesn't require using any code you wrote
+There will be 6 homework assignments. These assignments will be mostly Java programming
+assignments. Each assignment is independent and doesn't require using any code you wrote
 from previous assignments. That said, homework assignments may reference previous assignments.
 
 Assignment purpose:
@@ -497,20 +495,20 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 ### Midterms
 
-There will be one midterms during the course.
+There will be one midterm during the course.
 
 * Midterm Exam: Tuesday, October 17, 2023, in-class
     * Covers all material from start of class up to and including October 10
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
-### Cumulative Final Exam
+### Final Exam
 
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
 The final exams scheduled **for both sections**
 
-***MONDAY, DECEMBER 11, 2023*** - 7p.m. to 10p.m.
+***FRIDAY, MAY 3rd, 2023*** - 2 p.m. to 5 p.m.
 
 **You must attend the section you are registered for**. Any requests to take the final exam with a different section will be denied regardless of the reason. If you attend the wrong final exam section, your final exam will be given a zero.
 
@@ -607,7 +605,7 @@ This syllabus is to be considered a reference document that can and will be adju
 through the course of the semester to address changing needs. This syllabus can be 
 changed at any time. Significant changes will be announced. It is up to the student to monitor 
 this page and their announcements for any changes. 
-Final authority on any decision in this course rests with the professor, not with this document.
+The final authority on any decision in this course rests with the professor, not with this document.
 
 ## Professionalism
 
