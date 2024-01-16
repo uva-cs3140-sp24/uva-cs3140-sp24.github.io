@@ -36,11 +36,12 @@ Tuesdays and Thursdays @ 9:30 AM-10:45 AM in McLeod 1020
 
 ## Staff Information
 __Instructor:__ Prof. Rich Nguyen  
-Office: Rice 404  
 Office Hours:
-* Mondays 1 to 4 pm
-* Tuesdays 10 to 11 am
-* Wednesdays 11 am to 1pm    
+* Mondays 11 am to 12 pm on Zoom
+* Tuesdays 1 pm to 2 pm in Rice 202
+* Wednesdays 11 am to 12 pm on Zoom
+* Thursdays 1 pm to 2 pm in Rice 202
+
 Email: [nn4pj@virginia.edu](nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
@@ -226,9 +227,7 @@ We will not be using email for:
 * Installation Help (use Piazza or Office Hours)
 * Homework Questions (use Piazza)
 
-_PLEASE_ make sure to put "[SDE]" OR "[CS 3140]" at the beginning of the subject line
-of all emails!  And please be patient with us in 
-responding.  We both receive A LOT of email and it's easy to get behind. 
+_PLEASE_ be patient with us in responding.  We receive A LOT of email and it's easy to get behind. 
 If there is a time-critical nature to your note, please let us know that 
 as well.
 
@@ -267,14 +266,11 @@ Grading in this class will be based one:
 * Quizzes (9) - 5%
 	* Must pass at least 8 quizzes for full credit
 * Professional Practice - 10%
- 	* Peer-review assessment of practice of professionalism in the course
-* Midterms (1) - 10%*
-* Final Exam (1) - 10%*
+ 	* Peer-review evaluaiton of practice of professionalism in the course
+* Midterms (1) - 10%
+* Final Exam (1) - 10%
 
-If a student's final exam score is better than the midterm exam score, then the final exam will be 25% of the final 
-grade, and the midterm only 10% of the final grade
-
-There will be no extra credit opportunities for any reason.
+There might be some extra credit opportunities.
 
 ## Homework Assignments
 
@@ -368,7 +364,7 @@ you will get 80%). All members of an assignment team will get the same late pena
 **After 7 days, submissions will no longer be accepted.**
 
 Homework 6 will have a separate late policy - no late submissions after 
-Friday, December 8th, at 11:59 p.m. for any reason. 
+May 6th, at 11:59 p.m. for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
@@ -506,7 +502,7 @@ If you know you will be absent for an exam, you must let your professor know wit
 
 The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
 
-The final exams scheduled **for both sections**
+The final exams scheduled **for all sections**
 
 ***FRIDAY, MAY 3rd, 2023*** - 2 p.m. to 5 p.m.
 
