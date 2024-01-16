@@ -6,17 +6,20 @@ description: "CS 3140 - Software Development Essentials"
 permalink: /
 ---
 
-# CS 3140 Software Development Essentials- Spring 2024
+# CS 3140 Software Development Essentials
+## Spring 2024
 
 ## Important Links:
 
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Drive Folder](https://drive.google.com/drive/folders/1rbif6FPelWVSoHCNLPmysHPuhl5iNlhs?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Drive Folder](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=drive_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Course Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe0HylBkMPA6t9WwmoxMi6y9RhcNFON6A4eN5pY9kWf1HEKD6mdJKbSbkR3njW8IMysES3CrKpBCXN/pubhtml?gid=0&single=true){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Lectures
-Time: Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
-Location: McLeod Hall Room 1020
+* Time: Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
+* Location: McLeod Hall Room 1020
 
 ## Staff Information
 __Instructor:__ **Prof. Rich Nguyen**
@@ -52,7 +55,6 @@ Andrew is a 3rd year CS student who plans to also pursue a masters in Data Scien
 **Tyler Donovan**  
 <img src="assets/images/ta_pics/donovan.jpg" height="100">  
 Tyler is a 3rd year CS student. He’s been enjoying board games a pickleball recently and is on the board of the Korean Student Association at UVA.
-
 
 **Jonathan Eftink**  
 <img src="assets/images/ta_pics/eftink.jpg" height="100">  
@@ -109,6 +111,7 @@ Shreyas is a second year majoring in computer science. He enjoys reading random 
 <img src="assets/images/ta_pics/miller.jpg" height="100">  
 Charlotte is a 3rd year majoring in Computer Science and Math. She likes reading, playing video games, and her cats. Her favorite programming language is Java.
 
+**Thomas Nguyen**
 
 **Wright Quist**  
 <img src="assets/images/ta_pics/quist.jpg" height="100">  
