@@ -22,13 +22,15 @@ Both sections in McLeod Hall 1020, taught by Prof. Nguyen
 
 ## Staff Information
 __Instructor:__ **Prof. Rich Nguyen**
+
 <img src="assets/images/rich2017.jpg" height="200">  
-Office: Rice 202  
+
 Office Hours:
 * Mondays 11 am to 12 pm on Zoom
-* Tuesdays 1 pm to 2 pm at Rice 202 
+* Tuesdays 1 pm to 2 pm in Rice 202 
 * Wednesdays 11 am to 12 pm on Zoom
-* Thursdays 1 pm to 2 pm at Rice 202
+* Thursdays 1 pm to 2 pm in Rice 202
+
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
