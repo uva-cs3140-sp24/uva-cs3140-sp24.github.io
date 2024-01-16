@@ -6,24 +6,22 @@ description: "CS 3140 - Software Development Essentials"
 permalink: /
 ---
 
-# CS 3140 - Spring 2024
-## Software Development Essentials
+# CS 3140 Software Development Essentials- Spring 2024
 
-Important Links:
+## Important Links:
 
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Drive Folder](https://drive.google.com/drive/folders/1rbif6FPelWVSoHCNLPmysHPuhl5iNlhs?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-## Lecture
-Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
-
-Both sections in McLeod Hall 1020, taught by Prof. Nguyen
+## Lectures
+Time: Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
+Location: McLeod Hall Room 1020
 
 ## Staff Information
 __Instructor:__ **Prof. Rich Nguyen**
 
-<img src="assets/images/rich2017.jpg" height="200">  
+<img src="assets/images/richnguyen.jpeg" height="200" title="Photo" alt="A photo here">  
 
 Office Hours:
 * Mondays 11 am to 12 pm on Zoom
@@ -38,7 +36,7 @@ Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/
 __Teaching Assistants:__ 
 
 **Simon Anderson**  
-<img src="assets/images/ta_pics/anderson.jpg" height="100">  
+<img src="assets/images/ta_pics/anderson.jpg" height="100"/>  
 Simon is a 3rd year CS student. In his free time, he enjoys watching soccer, playing disc golf, and eating ice cream.
 
 **Fernando Canales**  
