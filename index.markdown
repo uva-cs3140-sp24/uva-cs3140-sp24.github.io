@@ -18,10 +18,11 @@ Important Links:
 ## Lecture
 Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
 
-Both sections in McLeod 1020, taught by Prof. Nguyen
+Both sections in McLeod Hall 1020, taught by Prof. Nguyen
 
 ## Staff Information
-__Instructor:__ Prof. Rich Nguyen   
+__Instructor:__ **Prof. Rich Nguyen**
+<img src="assets/images/rich2017.jpg" height="200">  
 Office: Rice 202  
 Office Hours:
 * Mondays 11 am to 12 pm on Zoom
@@ -32,7 +33,7 @@ Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
 
-__Teaching Assistants (Tentative):__ 
+__Teaching Assistants:__ 
 
 **Simon Anderson**  
 <img src="assets/images/ta_pics/anderson.jpg" height="100">  
@@ -60,12 +61,6 @@ Johnathan is a 3rd year majoring in Computer Science. His favorite language is J
 **Stephanie Fang**  
 <img src="assets/images/ta_pics/fang.jpg" height="100">  
 Stephanie is a third year Computer Science major with Economics and Statistics minors. She enjoys drawing, listening to international music, and playing games. Her current interests are artificial intelligence and software development.
-
-
-**Sebastian Fugle**  
-<img src="assets/images/ta_pics/fugle.jpg" height="100">  
-Sebastian is a 3rd year majoring in Computer Science. Their favorite programming language is C++, with Java being their most experienced. Sebastian also enjoys pushing programming languages and platforms to their limits, and trying to do what "shouldn't be possible" on any given system. Aside from programming, Sebastian likes to hike, act, and listen to music.
-
 
 **Jade Gregoire**  
 <img src="assets/images/ta_pics/gregoire.jpg" height="100">  
@@ -113,14 +108,6 @@ Shreyas is a second year majoring in computer science. He enjoys reading random 
 **Charlotte Miller**  
 <img src="assets/images/ta_pics/miller.jpg" height="100">  
 Charlotte is a 3rd year majoring in Computer Science and Math. She likes reading, playing video games, and her cats. Her favorite programming language is Java.
-
-
-**Thomas Nguyen**  
-
-
-**Siddharth Premjith**  
-<img src="assets/images/ta_pics/premjith.jpg" height="100">  
-Siddharth is a 3rd year CS student in the engineering school. Siddharth loves listening to music and is a part of First Year Players, a UVA theatre organization.
 
 
 **Wright Quist**  
