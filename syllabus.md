@@ -42,7 +42,7 @@ Office Hours:
 * Wednesdays 11 am to 12 pm on Zoom
 * Thursdays 1 pm to 2 pm in Rice 202
 
-Email: [nn4pj@virginia.edu](nn4pj@virginia.edu)      
+Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
 # Course Description
@@ -83,7 +83,7 @@ You should meet the following requirements to take this class:
 1. __Prerequisite: CS 2100 - C- or higher
 2. __Prerequisite knowledge: Proficiency with the Java programming language, including:
    1. Basic java syntax around variables, functions, conditionals, and loops
-   2. Understanding of object oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
+   2. Understanding of object-oriented programming, including creating your own classes, polymorphism (inheritance and interfaces), the Object class
    3. Common data structures, especially List (ArrayList and LinkedList), Map (HashMap), Set (HashSet, TreeSet)
 3. Willing to attend and participate with in-person lectures.
 4. Start homework assignments early, and emphasize working incrementally over several days rather than cramming.
@@ -101,7 +101,7 @@ This will act as the textbook for this course. This is a free resource that is a
 
 ## Where do I go for resources/help?
 
-* Announcements -> Drive Folder
+* Announcements -> Canvas
 * Slides -> Drive Folder
 * In-class code -> Drive Folder
 * Homework instructions -> Drive Folder
@@ -140,7 +140,6 @@ The student Drive Folder contains:
 - All Lecture Notes 
   - Announcements
   - Slides
-  - Assigned Readings with links to the Coursepack.
   - Example Code
 - Up-to-date Course Schedule
 - Assignment Information
@@ -263,11 +262,11 @@ Grading in this class will be based one:
 * Homework Assignments (7) - 65%  
 	* 10% each for Homework 1 through 5
 	* 15% for Homework 6
-* Quizzes (9) - 5%
+* Quizzes (10) - 5%
 	* Must pass at least 8 quizzes for full credit
-* Professional Practice - 10%
- 	* Peer-review evaluaiton of practice of professionalism in the course
-* Midterms (1) - 10%
+* Peer Review (1) - 10%
+ 	* Peer review evaluation of professionalism practice in the course
+* Midterm (1) - 10%
 * Final Exam (1) - 10%
 
 There might be some extra credit opportunities.
@@ -364,7 +363,7 @@ you will get 80%). All members of an assignment team will get the same late pena
 **After 7 days, submissions will no longer be accepted.**
 
 Homework 6 will have a separate late policy - no late submissions after 
-May 6th, at 11:59 p.m. for any reason. 
+May 5th, at 11:59 p.m. for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
@@ -493,8 +492,8 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 There will be one midterm during the course.
 
-* Midterm Exam: Tuesday, October 17, 2023, in-class
-    * Covers all material from start of class up to and including October 10
+* Midterm Exam: Thursday, February 29, 2023, in-class
+    * Covers all material from start of class up to and including February 22
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
@@ -588,12 +587,8 @@ to your final course grade, and your regrade request being declined.
 
 ## Lecture Recordings
 
-* Lecture sessions will generally be recorded and made available through the Lecture Recordings tool in Canvas.  
-  * However, recordings will not include material written on the board 
-  * Recordings may lose audio when the speaker needs to walk away from the microphone
-  * Recordings that are corrupted or missing are unlikely to be replaced
-  * Recordings are not an alternative to attending class, and this class is not meant to be taken remotely
-* If attendance dips considerably, lectures may no longer be recorded. You will get at least one day's notice if I choose to stop recording lectures
+* Live Lectures will **not** be recorded. Recordings are not an alternative to attending class, and this class is not meant to be taken remotely.
+* Course content will generally be recorded as short videos and made available through Panopto in Canvas.
 
 ## This Syllabus
 
