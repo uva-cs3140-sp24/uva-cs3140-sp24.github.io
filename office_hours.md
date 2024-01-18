@@ -10,9 +10,14 @@ The most up-to-date Office Hours Schedule:
 
 **Location**: Rice Hall 404
 
-* Mondays 1 to 4 pm
-* Tuesdays 10 to 11 am
-* Wednesdays 11 am to 1pm
+* Mondays 11 am to 12 pm on [Zoom](
+  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
+  )
+* Tuesdays 11 am to 12 pm in Rice 202
+* Wednesdays 11 am to 12 pm on [Zoom](
+  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
+  )
+* Thursdays 11 am to 12 pm in Rice 202
 
 ## TA Office Hours
 
@@ -30,8 +35,8 @@ TA Office Hours will *not* be held on days without class (such as Fall Break, El
 
 To get help in TA office hours, join the queue using the following link: https://beta.mydigitalhand.org/
 
-And the course entry code: **S551KQF**
+And the course entry code: **S9X1GYZ**
 
 Alternatively, you may use the following QR Code:
 
-![qr_code_oh.png](assets%2Fimages%2Fqr_code_oh.png)
+![cs3140_oh_qr.png](assets/images/cs3140_oh_qr.png)
