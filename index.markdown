@@ -21,6 +21,21 @@ permalink: /
 * Time: Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
 * Location: McLeod Hall Room 1020
 
+### A note for students on the wait-list
+In consultation with the department, I prioritize some students on the wait list based on need. The priority list is as follows:
+
+1. BSCS Majors 3rd Year and higher
+2. BACS Majors 3rd Year and higher (lower because CS 3240 is required for BSCS, but optional for BACS)
+3. 4th year CS Minors
+4. 2nd year CS Majors (BS or BA)
+5. 3rd year Minors
+6. 2nd year Minors
+7. All other students
+
+Be aware that I must act based on what is visible on SIS. As such, if you are still listed as undeclared, I must treat you as "all other students." I will add as many students as I can by the add deadline. Please check your email regularly, as I will email your UVA address if you are permitted to enroll.
+
+The Course add deadline is Jan 31st. If registered students decide to drop the class, I will immediately fill their spots with students waiting to get in!
+
 ## Staff Information
 __Instructor:__ **Prof. Rich Nguyen**
 
