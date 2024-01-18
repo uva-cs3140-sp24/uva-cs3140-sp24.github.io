@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Office Hours Schedule
+title: Office Hours
 nav_order: 6
 ---
 
