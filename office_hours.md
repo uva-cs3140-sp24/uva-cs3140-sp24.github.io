@@ -23,11 +23,11 @@ The most up-to-date Office Hours Schedule:
 
 **Location:** The Stacks (Thornton A-Wing)
 
-* **Mondays:** 11:00am - 6:30pm
-* **Tuesdays:** 10:00am - 12:30pm and 3:30pm-6:30pm
-* **Wednesdays:** 11:00am - 6:30pm
-* **Thursdays:** 10:00am - 12:30pm and 3:30pm-6:30pm
-* **Fridays:** 10:00am - 6:30pm
+* **Mondays:** 9:00 am - 3:30 pm
+* **Tuesdays:** 12:30 pm - 7:00 pm
+* **Wednesdays:** 10:30 am - 12:00 pm AND 2:00 pm - 3:30 pm AND 5:00 pm - 6:30 pm
+* **Thursdays:** 11:00 am - 5:30 pm
+* **Fridays:** 9:00 am - 10:30 am AND 2:00 pm - 7:00 pm
 
 TA Office Hours will *not* be held on days without class (such as Fall Break, Election Day, etc.)
 
