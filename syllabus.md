@@ -262,10 +262,10 @@ Grading in this class will be based one:
 * Homework Assignments (7) - 65%  
 	* 10% each for Homework 1 through 5
 	* 15% for Homework 6
-* Quizzes (10) - 5%
+* Quizzes (10) - 10%
 	* Must pass at least 8 quizzes for full credit
-* Peer Review (1) - 10%
- 	* Peer review evaluation of professionalism practice in the course
+* Reflection (1) - 5%
+ 	* Evaluation of professionalism practice in the course
 * Midterm (1) - 10%
 * Final Exam (1) - 10%
 
